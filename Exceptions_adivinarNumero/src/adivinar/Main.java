@@ -18,7 +18,6 @@ public class Main {
 		
 		while(numero!=aleatorio) {
 			try {
-				System.out.println("El número es: "+aleatorio);
 				System.out.println("Introduce un número entre el 1 y el 500");
 				numero=leer.nextInt();
 				contador++;
